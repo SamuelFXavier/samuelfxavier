@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with SQL,NODEJS,REACT,REACT-NATIVE,ANGULR JS...
 - 💬 Ask me about my plans.
 - 📫 How to reach me: xavierfsamuel@gmail.com
-
+- 💻 Future Certifield Tech Developer. Yeah !!!    
